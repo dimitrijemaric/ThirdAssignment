@@ -52,13 +52,21 @@
 		CCB388E81E49F45300FC3CC6 /* DevTrade */ = {
 			isa = PBXGroup;
 			children = (
-				CCB388E91E49F45300FC3CC6 /* AppDelegate.swift */,
+				E6297D2A1E7EB989009991B0 /* Supporting Files */,
 				CCB388ED1E49F45300FC3CC6 /* Main.storyboard */,
+			);
+			path = DevTrade;
+			sourceTree = "<group>";
+		};
+		E6297D2A1E7EB989009991B0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CCB388E91E49F45300FC3CC6 /* AppDelegate.swift */,
 				CCB388F01E49F45300FC3CC6 /* Assets.xcassets */,
 				CCB388F21E49F45300FC3CC6 /* LaunchScreen.storyboard */,
 				CCB388F51E49F45300FC3CC6 /* Info.plist */,
 			);
-			path = DevTrade;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
